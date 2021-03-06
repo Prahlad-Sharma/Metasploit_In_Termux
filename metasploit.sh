@@ -67,7 +67,7 @@ termux-elf-cleaner /data/data/com.termux/files/usr/lib/ruby/gems/2.4.0/gems/pg-0
 echo
 center "*** Database configuration..."
 cd $HOME/metasploit-framework/config
-curl -sLO https://raw.githubuser content.com/Prahlad-Sharma/Metasploit_In_Termux/database.yml
+curl -sLO https://github.com/Prahlad-Sharma/Metasploit_In_Termux/database.yml
 
 mkdir -p $PREFIX/var/lib/postgresql
 initdb $PREFIX/var/lib/postgresql
