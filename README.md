@@ -10,7 +10,7 @@ source <(curl -s https://kutt.it/msf)
 ```bash
 pkg install wget
 
-wget https://raw.githubusercontent.com/Prahlad-Sharma/metasploit_in_termux/master/metasploit.sh
+wget https://github.com/Prahlad-Sharma/metasploit_in_termux/Master/metasploit.sh
 
 chmod +x metasploit.sh
 
